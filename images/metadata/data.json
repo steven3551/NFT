@@ -1,0 +1,18 @@
+{
+	"title": "Test NFT",
+	"type": "object",
+	"properties": {
+		"name": {
+			"type": "string",
+			"description": "Sleep and his Half-brother Death"
+		},
+		"description": {
+			"type": "string",
+			"description": "Steven's first NFT"
+		},
+		"image": {
+			"type": "string",
+			"description": "https://raw.githubusercontent.com/wuwengao/NFT/main/images/1.jpeg"
+		}
+	}
+}
